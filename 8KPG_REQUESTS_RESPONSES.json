@@ -1,0 +1,37 @@
+{
+    "response": "OK",
+    "ipfs_url": "https://ipfs.io/ipfs/bafkreifnjntuvnnq6jl3uaeqo67omejtvwg2igzchxlenkyoorya76j4mi",
+    "file_name": "8KPG_BSMT_FLAT_NFT.png",
+    "content_type": "image/png",
+    "file_size": 115948,
+    "file_size_mb": 0.1106
+}
+{
+    "response": "OK",
+    "ipfs_url": "https://ipfs.io/ipfs/bafkreifbbgd4ilbjzqhthvkoq7qwpdc45zvzafuvaxw5hc5ihblvmtko5y",
+    "file_name": "8KPG_BSMT_FLAT_NFT_PRE-REVEAL.png",
+    "content_type": "image/png",
+    "file_size": 42964,
+    "file_size_mb": 0.041
+}
+{
+    "response": "OK",
+    "ipfs_url": "https://ipfs.io/ipfs/bafybeibppcah2dtez6454uxcrurfdngo3zms4mskun6wryzgp2lg3pz3iq",
+    "file_name": "8KPG_BSMT_FLAT_NFT_INVERTED.png",
+    "content_type": "image/png",
+    "file_size": 309150,
+    "file_size_mb": 0.2948
+}
+{   "response": "OK",
+    "metadata_directory_ipfs_uri": "ipfs://bafybeiht5svc5pxha4pbrjd4rgz2327ruhdzkmqkvfnx7gccja4z7zlb3y/",
+    "metadata_directory_ipfs_url": "https://ipfs.io/ipfs/bafybeiht5svc5pxha4pbrjd4rgz2327ruhdzkmqkvfnx7gccja4z7zlb3y"
+}
+{
+    "response": "OK",
+    "chain": "polygon",
+    "transaction_hash": "0x276ed8e1d9e0adcb27e939ab59fd9b7cd0d2533ba86655b6ba1495899fb34bd8",
+    "transaction_external_url": "https://polygonscan.com/tx/0x276ed8e1d9e0adcb27e939ab59fd9b7cd0d2533ba86655b6ba1495899fb34bd8",
+    "owner_address": "0x760493460501272166faDe65BDeB3Fc5606eFC3c",
+    "name": "8KPG BSMT FLAT",
+    "symbol": "8KPGBSMT"
+}

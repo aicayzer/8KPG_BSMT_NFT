@@ -1,0 +1,20 @@
+{
+    "chain": "polygon",
+    "name": "8KPG BSMT FLAT",
+    "symbol": "8KPGBSMT",
+    "max_supply": 10,
+    "team_reserve": 0,
+    "mint_price": 0,
+    "presale_mint_price": 0,
+    "tokens_per_mint": 5,
+    "owner_address": "0x760493460501272166faDe65BDeB3Fc5606eFC3c",
+    "treasury_address": "0x760493460501272166faDe65BDeB3Fc5606eFC3c",
+    "public_mint_start_date": "2022-11-07T12:00:00+00:00",
+    "metadata_updatable": true,
+    "base_uri": "https://cayzer.xyz",
+    "prereveal_token_uri": "https://ipfs.io/ipfs/bafkreifbbgd4ilbjzqhthvkoq7qwpdc45zvzafuvaxw5hc5ihblvmtko5y",
+    "presale_mint_start_date": "2022-11-01T12:00:00+00:00",
+    "presale_whitelisted_addresses": [
+      "0x760493460501272166faDe65BDeB3Fc5606eFC3c"
+    ]
+  }
